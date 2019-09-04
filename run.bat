@@ -1,0 +1,1 @@
+cmd /C python .\bin\createWorkhours.py "CSVExport-NN.csv"
